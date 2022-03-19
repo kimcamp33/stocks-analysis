@@ -2,7 +2,7 @@
 
 Module 2 
 
-# Refractoring Code for Stock Analysis 
+# Refactoring Code for Stock Analysis 
 
 ## Overview of Project 
 
