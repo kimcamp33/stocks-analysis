@@ -1,5 +1,7 @@
 #stocks-analysis
+
 Module 2
+
 #Refractoring Code for Stock Analysis 
 
 ##Overview of Project 
